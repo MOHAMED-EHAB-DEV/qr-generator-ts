@@ -1,0 +1,30 @@
+{
+  "name": "qr-generator-ts",
+  "version": "1.0.0",
+  "description": "Zero-dependency QR Code generator in pure TypeScript (ISO/IEC 18004 compliant)",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "index.ts"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "qr",
+    "qrcode",
+    "generator",
+    "typescript",
+    "zero-dependency",
+    "svg",
+    "canvas",
+    "ascii"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
