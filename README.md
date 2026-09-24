@@ -1,4 +1,4 @@
-# @estajer/qr-generator
+# qr-generator
 
 > Lightweight, zero-dependency QR Code generator written in 100% pure TypeScript. Full ISO/IEC 18004 specification compliant.
 
